@@ -1,8 +1,8 @@
-cloud computing student focused on gcp · ml · mlops
+Cloud Computing student focused on GCP · ML ·MLOps
 
-currently working on: data pipelines and ml systems on google cloud  
-tools: python · gcp · vertex ai · docker · terraform  
-reach me: www.linkedin.com/in/strange-vibes · 5022vadaylihas@gmail.com
+Currently working on: Data Pipelines and ML Systems on Google Cloud  
+Tools: Python · GCP · Vertex AI · Docker · Terraform  
+Reach me: www.linkedin.com/in/strange-vibes · 5022vadaylihas@gmail.com
 
 
 
